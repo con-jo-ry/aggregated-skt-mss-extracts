@@ -1,0 +1,14 @@
+{
+  "name": "mss-extracts",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scrape mss extracts",
+  "scripts": {
+    "tst": "node tst.js",
+    "cambridge": "node cambridge.js",
+    "oxford": "node oxford.js"
+  },
+  "dependencies": {
+    "jsdom": "^30.1.2"
+  }
+}

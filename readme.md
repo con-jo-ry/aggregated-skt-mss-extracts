@@ -7,6 +7,8 @@ The data in this repository is drawn from the following digital library projects
 
 *   **[Cambridge University Digital Library](https://cudl.lib.cam.ac.uk/collections/sanskrit/1)** 
     *   License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 
+*   **[Bodleian Libraries, Oxford](https://github.com/bodleian/south-asian-mss)** 
+    *   License unspecified 
 *   **[Tokyo University Library](https://dzkimgs.l.u-tokyo.ac.jp/ut_skt_manuscripts/)** 
     *   License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
 *   **[The Pandit Project](https://panditproject.org/)** 
